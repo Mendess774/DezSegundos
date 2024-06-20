@@ -9,6 +9,10 @@ Dez Segundos 0 1 2 3 4 5 6 7 8 9 10
 
 ![Tela do programa](tela.png.jpg)
 
+## _Donwload 
+
+[Donwload do arquivo .zip](dist/DezSegundos.zip.zip)
+
 ## Agradecimentos
 
 -[Etec Adolpho Berezin](https://www.cps.sp.gov.br/etecs/etec-adolpho-berezin/)
